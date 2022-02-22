@@ -14,5 +14,5 @@ Refactor marketing agency's website in order to compy with accessibility standar
   **Accessiblity**
   - consolidated code by grouping classes together in html and css files for both the <main> and <aside> sections
   - Added Alt tags for all images
+  - Fixed all links in Nav-Menu
   - Added media responsiveness for screens under 768 px (This still needs a little work but it's a start)
-  

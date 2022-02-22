@@ -15,7 +15,13 @@ p {
 /* Media Responsiveness */
 
     /* For Mobile phones */
+@media only screen and (max-width: 768px) {
+    .header .hero .content .benefits .footer {
+        width: 100%;
+    }
+}
 
+/* Nav Menu */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;

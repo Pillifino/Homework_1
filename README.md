@@ -16,3 +16,4 @@ Refactor marketing agency's website in order to compy with accessibility standar
   - Added Alt tags for all images
   - Fixed all links in Nav-Menu
   - Added media responsiveness for screens under 768 px (This still needs a little work but it's a start)
+  - Appropriate comments in both html and css files breaking down refactoring process

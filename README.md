@@ -9,12 +9,7 @@ Refactor marketing agency's website in order to compy with accessibility standar
   - Replaced <div> tags with Semantic elements such as header,nav,footer,aside,etc
   - organized html and css code to better follow semantic structure
       Example of structure
-        <header> 
-        <main> 
-        <article> 
-        <section> 
-        <aside> 
-        <footer> 
+        https://static.semrush.com/blog/uploads/media/4e/f5/4ef50b3289c4454e8d99d9b063ee2d0f/7-semantic-html5-tags.webp
       
   **Accessiblity**
   - consolidated code by grouping classes together in html and css files for both the <main> and <aside> sections

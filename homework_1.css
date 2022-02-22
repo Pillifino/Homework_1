@@ -71,7 +71,7 @@ a {
     background-position: center;
 }
 
-/*Main & Sections*/
+/*Consolidated Main-Section*/
 .content {
     width: 75%;
     display: inline-block;
@@ -106,7 +106,7 @@ a {
     margin-left: 25px;
 }
 
-/*Aside Section*/
+/* Consolidated Aside Section*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
